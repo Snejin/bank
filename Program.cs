@@ -54,7 +54,7 @@ public class Program
                     Console.WriteLine();
                     break;
                 case 3:
-                    //я этого перевод того все шатал я мог шашлык над башкой жарить
+                    //перевод денег со счета на счет
                     Console.WriteLine("Введите номер счета, на который хотите передать деньги:");
                     int targetAccountNumber = int.Parse(Console.ReadLine());
                     Console.WriteLine("Введите сумму для перевода:");
