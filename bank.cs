@@ -3,7 +3,7 @@
     private int accountNumber;
     private string accountOwner;
     private float balance;
-    //вроде как надо типы данных свапнуть но мне лень
+   //открытие счета
     public void OpenAccount(int number, string owner, float initialBalance)
     {
         accountNumber = number;
